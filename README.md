@@ -1,9 +1,9 @@
-# BiomedSci AI organization
+# BiomedSciAI 
 ## 🙋‍♀️ What is BiomedSciAI?
 
 Our mission is to accelerate scientific discovery in Biomedical Sciences through a variety of tools that can help scientists do their research quicker and more effectively.
 
-Whether you use population-scale data like EHRs, subcellullar-scale data like spatially resolved omics, or a combination of various modalities, we host tools that will help you make the most out of the data. 
+Whether you use population-scale data like EHRs, subcellullar-scale data like spatially resolved omics, or a combination of various modalities, we host tools that will help you make the most out of it. 
 
 ## 🌈 How can I get involved?
 
