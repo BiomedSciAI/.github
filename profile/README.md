@@ -11,8 +11,8 @@ that will help you make the most out of it.
 
 ## 🌈 How can I get involved?
 
-If you want to contribute and get involved check out our guidelines and code of 
-conduct.
+If you want to contribute and get involved check out the guidelines 
+of the repository of your interest and our [code of conduct](code_of_conduct.md).
 
 ## 👩‍💻 How can I use it?
 
@@ -22,4 +22,4 @@ BiomedSciAI.
 A good starting point is to check out the pinned repositories. You can find all 
 implementation details and some examples in the docs.
 
-Try out the notebooks we prepared for various scientific applications.
+Try out the example repositories that we prepared for various applications.
