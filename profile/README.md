@@ -12,7 +12,7 @@ that will help you make the most out of it.
 ## 🌈 How can I get involved?
 
 If you want to contribute and get involved check out the guidelines 
-of the repository of your interest and our [code of conduct](code_of_conduct.md).
+of the repository of your interest and our [code of conduct](https://github.com/BiomedSciAI/.github/edit/main/profile/code_of_conduct.md).
 
 ## 👩‍💻 How can I use it?
 
