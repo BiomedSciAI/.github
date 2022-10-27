@@ -23,3 +23,15 @@ A good starting point is to check out the pinned repositories. You can find all
 implementation details and some examples in the docs.
 
 Try out the example repositories that we prepared for various applications.
+
+
+
+## Gallery
+
+|Machine learning Workflows|Model evaluation|
+|:-:|:-:|
+|![fuse](profile/img/fusemedml.png)|![fuse](profile/img/fusemedml.png)|
+|**Medical image processing**| **Computational pathology** |
+|![fuse](profile/img/fusemedml.png)|![histocartography](profile/img/histocartography.png)|
+|**Graph representations and explainability**|**Survival analysis**|
+|![histocartography](profile/img/histocartography.png)|![dpm360](profile/img/dpm360.png)|
