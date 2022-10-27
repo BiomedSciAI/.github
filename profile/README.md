@@ -28,10 +28,13 @@ Try out the example repositories that we prepared for various applications.
 
 ## Gallery
 
-|Machine learning Workflows|Model evaluation|
+|Machine learning workflows|Model evaluation|
 |:-:|:-:|
-|![fuse](profile/img/fusemedml.png)|![fuse](profile/img/fusemedml.png)|
+|[<img src="https://github.com/BiomedSciAI/fuse-med-ml/raw/master/fuse/doc/FuseMedML-logo.png" width="200">](https://github.com/BiomedSciAI/fuse-med-ml)|[<img src="https://github.com/BiomedSciAI/fuse-med-ml/raw/master/fuse/doc/FuseMedML-logo.png" width="200">](https://github.com/BiomedSciAI/fuse-med-ml)|
+[<img src="https://github.com/BiomedSciAI/DPM360/raw/main/docs/resources/png/dpm360v2.png" width="200">](https://github.com/BiomedSciAI/DPM360)
 |**Medical image processing**| **Computational pathology** |
-|![fuse](profile/img/fusemedml.png)|![histocartography](profile/img/histocartography.png)|
+|[<img src="https://github.com/BiomedSciAI/fuse-med-ml/raw/master/fuse/doc/FuseMedML-logo.png" width="200">](https://github.com/BiomedSciAI/fuse-med-ml)|[<img src="https://raw.githubusercontent.com/histocartography/histocartography/main/docs/_static/logo_large.png" width="200">](https://github.com/BiomedSciAI/histocartography)|
+|[<img src="https://raw.githubusercontent.com/histocartography/histocartography/main/docs/_static/logo_large.png" width="200">](https://github.com/BiomedSciAI/histocartography)|
 |**Graph representations and explainability**|**Survival analysis**|
-|![histocartography](profile/img/histocartography.png)|![dpm360](profile/img/dpm360.png)|
+|[<img src="https://raw.githubusercontent.com/histocartography/histocartography/main/docs/_static/logo_large.png" width="200">](https://github.com/BiomedSciAI/histocartography)|[<img src="https://github.com/BiomedSciAI/DPM360/raw/main/docs/resources/png/dpm360v2.png" width="200">](https://github.com/BiomedSciAI/DPM360)|
+
