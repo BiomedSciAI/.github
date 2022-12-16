@@ -25,7 +25,7 @@ implementation details and some examples in the docs.
 
 Try out the example repositories that we prepared for various applications.
 
-
+<!--
 ## Gallery
 
 |Machine learning workflows|Model evaluation|
@@ -38,3 +38,4 @@ Try out the example repositories that we prepared for various applications.
 |**Graph representations and explainability**|**Survival analysis**|
 |[<img src="https://raw.githubusercontent.com/histocartography/histocartography/main/docs/_static/logo_large.png" width="200">](https://github.com/BiomedSciAI/histocartography)|[<img src="https://github.com/BiomedSciAI/DPM360/raw/main/docs/resources/png/dpm360v2.png" width="200">](https://github.com/BiomedSciAI/DPM360)|
 
+-->
