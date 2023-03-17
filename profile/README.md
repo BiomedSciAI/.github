@@ -17,10 +17,7 @@ of the repository of your interest and our [code of conduct](https://github.com/
 
 ## 👩‍💻 How can I use it?
 
-We are just getting started but there is already plenty of stuff you can do with
-BiomedSciAI.
-
-A good starting point is to check out the pinned repositories. You can find all 
+We have plenty of stuff you can do with BiomedSciAI. A good starting point is to check out the pinned repositories. You can find all 
 implementation details and some examples in the docs.
 
 Try out the example repositories that we prepared for various applications.
