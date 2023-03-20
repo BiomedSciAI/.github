@@ -5,7 +5,7 @@ Our mission is to accelerate scientific discovery in Biomedical Sciences through
  a variety of tools that can help scientists do their research quicker and more 
  effectively.
 
-Whether you use population-scale data like EHRs, subcellullar-scale data like 
+Whether you use population-scale data like EHRs, body-part data like medical imaging, subcellullar-scale data like 
 spatially resolved omics, or a combination of various modalities, we host tools 
 that will help you make the most out of it. 
 
@@ -20,7 +20,7 @@ of the repository of your interest and our [code of conduct](https://github.com/
 We have plenty of stuff you can do with BiomedSciAI. A good starting point is to check out the pinned repositories. You can find all 
 implementation details and some examples in the docs.
 
-Try out the example repositories that we prepared for various applications.
+Try out the examples in the repositories that we prepared for various applications.
 
 <!--
 ## Gallery
